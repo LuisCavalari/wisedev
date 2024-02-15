@@ -1,0 +1,20 @@
+{
+  "name": "wisedev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisCavalari/wisedev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisCavalari/wisedev/issues"
+  },
+  "homepage": "https://github.com/LuisCavalari/wisedev#readme"
+}
